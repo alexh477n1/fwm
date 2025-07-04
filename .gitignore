@@ -1,6 +1,8 @@
-__pycache__/
-*.pyc
-*.pyo
-*.egg-info/
-.env
-venv/
+# Data outputs
+*.png
+*.log
+/data/predictions.csv
+/data/top_future_stars.csv
+/data/championship_predictions.csv
+/data/statsbomb_competitions.csv
+/data/statsbomb_match_counts.csv
